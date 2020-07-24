@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(D:\code\play_crud\conf\application.conf,D:\code\play_crud\target\scala-2.13\classes\application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(D:\code\play_crud\conf\logback.xml,D:\code\play_crud\target\scala-2.13\classes\logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(D:\code\play_crud\conf\messages,D:\code\play_crud\target\scala-2.13\classes\messages)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(D:\code\play_crud\conf\routes,D:\code\play_crud\target\scala-2.13\classes\routes)[0m

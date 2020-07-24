@@ -20,3 +20,6 @@ lazy val root = (project in file("."))
       "-Xfatal-warnings"
     )
   )
+
+organization := "com.example.aamir.play.akka-http"
+
